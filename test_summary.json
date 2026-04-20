@@ -1,0 +1,70 @@
+{
+  "exames Fernanda.pdf": {
+    "collection_date": "11/04/2026",
+    "total_exams_extracted": 19,
+    "written_count": 19,
+    "unmatched_count": 0,
+    "missing_examples": [
+      "COLESTEROL TOTAL",
+      "COLESTEROL HDL",
+      "COLESTEROL LDL",
+      "TRIGLICERÍDEOS",
+      "COLESTEROL VLDL",
+      "COLESTEROL NÃO HDL",
+      "LIPOPROTEÍNA A",
+      "APOLIPOPROTEINA A1"
+    ]
+  },
+  "exames marilene.pdf": {
+    "collection_date": "26/03/2026",
+    "total_exams_extracted": 35,
+    "written_count": 34,
+    "unmatched_count": 0,
+    "missing_examples": [
+      "GLICEMIA MÉDIA ESTIMADA",
+      "COLESTEROL NÃO HDL",
+      "RELAÇÃO APO B / APO A",
+      "PROTEÍNA C REATIVA ULTRASSENSÍVEL (PCR-US)",
+      "SATURAÇÃO DA TRANSFERRINA",
+      "VPM PLAQUETAS",
+      "G6PD"
+    ]
+  },
+  "LARISSA 1.pdf": {
+    "collection_date": "16/11/2025",
+    "total_exams_extracted": 40,
+    "written_count": 39,
+    "unmatched_count": 0,
+    "missing_examples": [
+      "COLESTEROL VLDL",
+      "RELAÇÃO APO B / APO A"
+    ]
+  },
+  "Laudo Completo 13_03_2026.pdf": {
+    "collection_date": "13/03/2026",
+    "total_exams_extracted": 36,
+    "written_count": 36,
+    "unmatched_count": 0,
+    "missing_examples": [
+      "HOMA BETA",
+      "LIPOPROTEÍNA A",
+      "RELAÇÃO APO B / APO A",
+      "CÁLCIO",
+      "SATURAÇÃO DA TRANSFERRINA",
+      "HEMOGLOBINA F"
+    ]
+  },
+  "Resultado-Pedido-6900330480(1).pdf": {
+    "collection_date": "28/03/2026",
+    "total_exams_extracted": 37,
+    "written_count": 36,
+    "unmatched_count": 0,
+    "missing_examples": [
+      "HOMA BETA",
+      "COLESTEROL NÃO HDL",
+      "CHCM",
+      "RDW",
+      "G6PD"
+    ]
+  }
+}
